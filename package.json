@@ -6,6 +6,7 @@
     "node": "18.x",
     "npm": "9.x"
   },
+  "packageManager": "npm@9.6.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
